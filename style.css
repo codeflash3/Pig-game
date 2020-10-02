@@ -20,7 +20,7 @@ body {
     background-size: cover;
     background-position: center;
     font-family: Lato;
-    font-weight: 300;
+    font-weight: 280;
     position: relative;
     height: 100vh;
     color: #555;
@@ -41,7 +41,7 @@ body {
 .player-1-panel {
     width: 50%;
     float: left;
-    height: 600px;
+    height: 590px;
     padding: 100px;
 }
 
@@ -64,7 +64,7 @@ body {
 
 .player-score {
     text-align: center;
-    font-size: 80px;
+    font-size: 79px;
     font-weight: 100;
     color: #EB4D4D;
     margin-bottom: 130px;
@@ -75,7 +75,7 @@ body {
 
 .active .player-name::after {
     content: "\2022";
-    font-size: 47px;
+    font-size: 46px;
     position: absolute;
     color: #EB4D4D;
     top: -7px;
